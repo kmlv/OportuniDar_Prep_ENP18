@@ -1,5 +1,5 @@
 # basic configuration
-baseurl: /course-in-a-box
+baseurl: /OportuniDar_Prep_ENP18
 markdown: kramdown
 permalink: /:categories/:title/
 
